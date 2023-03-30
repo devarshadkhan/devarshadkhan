@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arshad Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- <img src="https://instagram.fdel27-4.fna.fbcdn.net/v/t51.2885-15/314417928_1589097411548040_6049085231413690324_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fdel27-4.fna.fbcdn.net&_nc_cat=100&_nc_ohc=kXghRNxhhmYAX952gMu&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk2NTMwMTY3Mjg5MDY5NjI5OA%3D%3D.2-ccb7-5&oh=00_AfC4-pvsaCcFk1fa9NuxoMO9Q-N1cTAbnTqjhnjqwPAy6A&oe=642B5C5B&_nc_sid=6136e7" alt="" height="400" width="400" height="40"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewitharshad&label=Profile%20views&color=0e75b6&style=flat" alt="codewitharshad" /> </p>
 
