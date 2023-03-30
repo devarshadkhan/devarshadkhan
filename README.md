@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arshad Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" src="https://instagram.fdel27-4.fna.fbcdn.net/v/t51.2885-15/314417928_1589097411548040_6049085231413690324_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fdel27-4.fna.fbcdn.net&_nc_cat=100&_nc_ohc=kXghRNxhhmYAX952gMu&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk2NTMwMTY3Mjg5MDY5NjI5OA%3D%3D.2-ccb7-5&oh=00_AfC4-pvsaCcFk1fa9NuxoMO9Q-N1cTAbnTqjhnjqwPAy6A&oe=642B5C5B&_nc_sid=6136e7" alt="programmer arshad khan" height="400" width="400" /></
+- 🌱 I’m Working as a Fronten Developer * React JS *
+
+- 💬 Ask me about **Javascript, React JS, Redux, MUI, ChakraUI, Tailwind CSS, Html5, Css3, Git**
+
+- 📫 How to reach me **codewitharsh@outlook.com**
+<img align="right" margin="2rem" src="https://instagram.fdel27-4.fna.fbcdn.net/v/t51.2885-15/314417928_1589097411548040_6049085231413690324_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fdel27-4.fna.fbcdn.net&_nc_cat=100&_nc_ohc=kXghRNxhhmYAX952gMu&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk2NTMwMTY3Mjg5MDY5NjI5OA%3D%3D.2-ccb7-5&oh=00_AfC4-pvsaCcFk1fa9NuxoMO9Q-N1cTAbnTqjhnjqwPAy6A&oe=642B5C5B&_nc_sid=6136e7" alt="programmer arshad khan" height="400" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewitharshad&label=Profile%20views&color=0e75b6&style=flat" alt="codewitharshad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewitharshad" alt="codewitharshad" /></a> </p>
 
-- 📫 How to reach me **codewitharsh@outlook.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
