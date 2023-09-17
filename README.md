@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arshad Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-- 🌱 I’m Working as a Fronten Developer * React JS *
+- 🌱 I’m Working as a Frontend Developer * React JS *
 
 - 💬 Ask me about **Javascript, React JS, Redux, MUI, ChakraUI, Tailwind CSS, Html5, Css3, Git**
 
