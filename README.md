@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 - 🌱 I’m Working as a Frontend Developer * React JS *
 
-- 💬 Ask me about **Javascript, React JS, Typescript, Next JS, Redux-Toolkit, MUI, ChakraUI, Tailwind CSS, Html5, Css3, Git, Gitgub**
+- 💬 Ask me about **Javascript, React JS, Typescript, Next JS, Redux-Toolkit, MUI, ChakraUI, Tailwind CSS, Html5, Css3, Git, Github**
 
 - 📫 How to reach me **codewitharsh@outlook.com**
 
